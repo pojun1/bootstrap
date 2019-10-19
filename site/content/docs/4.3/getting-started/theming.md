@@ -215,7 +215,7 @@ You can also specify a base color with our color map functions:
 
 We use the `escape-svg` function to escape the `<`, `>` and `#` characters for SVG background images. These characters need to be escaped to properly render the background images in IE.
 
-## Add and Subtract function
+## Add and Subtract functions
 
 We use the `add` and `subtract` functions instead of the CSS `calc` function. The primary purpose of these functions is to avoid errors when "unitless" 0 is given to the `calc` expression.
 
