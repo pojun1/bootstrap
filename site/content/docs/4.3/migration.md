@@ -106,7 +106,7 @@ Badges were overhauled to better differentiate themselves from buttons and to be
 
 ### Icons (New!)
 
-- Added new SVGs for our documentation, form controls, and carousel. These icons come from our new open source [Bootstrap Icons](https://icons.getbootstrap.com) library.
+- Added new SVGs for our documentation, form controls, and carousel. These icons come from our new open source [Bootstrap Icons](https://icons.getbootstrap.com/) library.
 - Removed Open Iconic icons from project source code for form controls.
 
 ### Jumbotron
